@@ -10,16 +10,17 @@ provide an authentic travel experience that goes beyond the typical tourist spot
 Core Features of Explore Like A Local:
 
 1. Personalized Itinerary Generator
+
 • Tailored Recommendations: Users input their travel preferences (e.g., adventure, relaxation,food, culture) and the amount of time they have available.
 • Custom Itineraries: Based on these inputs, the website generates a personalized itinerarythat includes suggestions for activities, dining, and sightseeing that match the user'sinterests.
 • Optimized Schedules: The itineraries are designed to be efficient and realistic, ensuring thatusers can make the most of their time while exploring.
 
-2. Local Insights
+3. Local Insights
 • Hidden Gems: The platform focuses on recommending places that are lesser-known to tourists but beloved by locals, including off-the-beaten-path locations, local hangouts, and authentic experiences.
 • Insider Tips: Alongside recommendations, users receive helpful tips on the best times to visit, local customs, and how to navigate certain places or activities like a local.
 • Cultural Experience: The idea is to help users experience the city or location in a more authentic way, such as attending local festivals, visiting family-owned restaurants, or enjoying activities that highlight the region’s culture.
 
-3. Event Tracker
+4. Event Tracker
 • Real-Time Events: The website displays a list of upcoming events in the area such as
 concerts, festivals, workshops, and art exhibitions.
 • Event Alerts: Users can set preferences for types of events they are interested in, and the
@@ -27,12 +28,12 @@ website will send notifications or display upcoming events matching their prefer
 • Local Festivals: Special attention is given to events that highlight the local culture, providing
 a chance for travelers to engage with the community.
 
-4. Interactive Map
+5. Interactive Map
 • Geolocation Features: The website includes an interactive map that highlights recommended activities, restaurants, and places to visit.
 • Filters for Preferences: The map includes filters such as "family-friendly," "romantic," or "budget-friendly," allowing users to find the right spots based on their needs.
 • Navigation Assistance: The map is designed to help users plan their route easily, marking key destinations and providing directions. 
 
-5. Budget Planner
+6. Budget Planner
 • Cost Breakdown: The website includes a budget planner that helps users estimate the cost of their trip based on their planned activities, dining, and transportation options.
 • Budget-friendly Options: The planner suggests ways to save money by offering recommendations for affordable restaurants, free activities, or transportation options like biking or walking.
 • Expense Tracker: Users can track their expenses in real-time and adjust their plans if necessary to stay within their budget.
@@ -67,20 +68,17 @@ intimacy.
 • Up-to-Date Information: The real-time event tracker ensures that users are aware of current events, festivals, and activities happening during their visit. This feature is crucial for ensuring that travelers don’t miss out on unique opportunities.
 • Community Engagement: With user-submitted reviews and photos, Explore Like A Local fosters a community of like-minded travelers who can share tips, suggestions, and experiences. This creates a trustworthy source of information and recommendations that is driven by real experiences.
 
-10. How It Works,
-1. User Input: The process starts when a user visits the website and provides their travel
-preferences (e.g., type of trip, duration, budget, etc.).
-2. Tailored Suggestions: Based on the input, the website generates personalized
-recommendations for activities, dining, and attractions.
-3. Map Navigation: Users can view the locations on an interactive map, plan their route, and
-get recommendations for the best local spots.
-4. Itinerary Customization: The user can adjust their itinerary as needed by adding or removing
-activities.
-5. Expense Management: The budget planner helps users track expenses and find costeffective options.
-6. Sharing Experiences: After the trip, users can leave reviews and upload photos to contribute
-to the platform’s community.
+10. How It Works
+    
+•User Input: The process starts when a user visits the website and provides their travel preferences (e.g., type of trip, duration, budget, etc.).
+•Tailored Suggestions: Based on the input, the website generates personalized recommendations for activities, dining, and attractions.
+•Map Navigation: Users can view the locations on an interactive map, plan their route, and get recommendations for the best local spots.
+•Itinerary Customization: The user can adjust their itinerary as needed by adding or removing activities.
+•Expense Management: The budget planner helps users track expenses and find costeffective options.
+•Sharing Experiences: After the trip, users can leave reviews and upload photos to contribute to the platform’s community.
 
 11.Conclusion
+
 Explore Like A Local is not just another travel guide; it’s a platform designed to transform the way
 people explore new destinations. By offering personalized itineraries, real-time event information,
 insider tips, and a budget planner, the platform allows travelers to experience the heart and soul of
